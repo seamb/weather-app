@@ -43,9 +43,12 @@ function App() {
               </div>
             )}
           </div>
-          <div className='description'>
+          {/* <div className='description'>
             {data.weather ? <p>{data.weather[0].main}</p> : null}
-          </div>
+          </div> */}
+        </div>
+        <div className='description'>
+          {data.weather ? <p>{data.weather[0].main}</p> : null}
         </div>
         {data.name !== undefined && (
           <div className='bottom'>
