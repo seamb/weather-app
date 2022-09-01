@@ -188,11 +188,12 @@ h3 {
   }
   .temp,
   h2 {
-    font-size: 8rem;
-
+    padding-left: 1.5rem;
+    font-size: 8.5rem;
+    font-weight: 200;
     text-align: center;
     color: #ffffff;
-    text-align: right;
+    text-align: center;
   }
   p {
     color: rgb(170, 211, 228);
