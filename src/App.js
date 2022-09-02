@@ -13,6 +13,7 @@ function App() {
         setData(response.data);
         console.log(response.data, 'RD');
       });
+
       setLocation('');
     }
   };

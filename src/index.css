@@ -119,17 +119,16 @@ h3 {
     min-width: 365px;
     max-width: 400px;
   }
-  h1 {
-    font-size: 4.5rem;
+  .location h1 {
+    font-size: 3rem;
     font-weight: 400;
     text-align: left;
     color: rgb(210, 199, 188);
     margin-top: -1.5rem;
-    margin-bottom: -1rem;
+    margin-bottom: 2rem;
   }
   h2 {
     font-size: 9rem;
-    /* font-weight: 300; */
     text-align: center;
     color: #ffffff;
   }
@@ -188,8 +187,8 @@ h3 {
   }
   .temp,
   h2 {
-    padding-left: 1.5rem;
-    font-size: 8.5rem;
+    padding-left: 2rem;
+    font-size: 8rem;
     font-weight: 200;
     text-align: center;
     color: #ffffff;
