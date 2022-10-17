@@ -37,14 +37,6 @@ h3 {
   text-align: left;
 }
 
-.app {
-  width: 100%;
-  min-width: 365;
-  height: 100%;
-  position: relative;
-  padding-top: 2em;
-}
-
 .app:before {
   content: '';
   background: url('https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fHNreXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1100&q=60')
